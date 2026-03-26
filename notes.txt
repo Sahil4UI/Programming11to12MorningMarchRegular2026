@@ -1,0 +1,33 @@
+Python:
+Python is a high level general purpose programming
+language
+
+high level : 
+general purpose : Easy to Learn and easy to use.
+General Purpose : 
+1.app dev - desktop apps,mobile apps,web apps
+2.game dev 
+3. ethical hacking
+4. Automation Testing
+5. AI-Artificial Intelligence - Data Analytics,Data Science(ML,DL,IOT) 
+———————————————————————————————————————————————————————————————————————————————————————————————————————————————
+
+History:
+1991 - Guido Van Rossum - Monty’s Python Flying Circus
+Python is the successor of ABC programming
+—————————————————————————————
+Python Installation :
+1. goto python.org
+2. goto downloads and download python setup and double click on it to install it
+3. then open IDLE(Interactive Development Learning Environment)
+—————————————————————————————
+Variables and Data Types:
+Naming Conventions:
+->Variable name must not be started with number or any special characterother than _.
+->Variable name must not contain any special character
+————————————————————
+Data Types:
+1.number - int,float,complex
+2.String
+
+
